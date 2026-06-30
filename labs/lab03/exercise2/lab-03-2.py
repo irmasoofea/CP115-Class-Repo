@@ -1,3 +1,3 @@
 numNight = int(input())
-totalPayment = numNight * 250 + 250 * 0.15
+totalPayment = 250 * numNight * 1.15
 print(totalPayment)
