@@ -1,0 +1,10 @@
+age = int(input("Enter your age: "))
+name = str(input("Enter your name: "))
+course_code = str(input("Enter your course code: "))
+
+print(age)
+print(type(age))
+print(name)
+print(type(name))
+print(course_code)
+print(type(course_code))
